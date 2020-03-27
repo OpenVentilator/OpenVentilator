@@ -26,8 +26,8 @@ Our approach was to reuse existing, tested and widely available technologies whe
 We settled on a BVM based design based on their availabilty and familiarity and on the available add ons that provide many of the target features.
 
 
-### Known Issues
-In the current design, the tube sits between the non rebreathing valve and the patient leading to some air rebreathing. We need to switch the setup to bag > tube > vavle > patient.
+### Diagram
+![Ventilator Diagram](https://github.com/OpenVentilator/OpenVentilator/raw/master/media/diagram.png)
 
 ### Todo
 - Publish images, renders and videos
